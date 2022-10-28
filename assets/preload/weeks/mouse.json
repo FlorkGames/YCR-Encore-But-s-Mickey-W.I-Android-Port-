@@ -1,0 +1,30 @@
+{
+	"storyName": "You Cant Run Encore",
+	"difficulties": "encore",
+	"hideFreeplay": false,
+	"weekBackground": "mogus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"you-cant-run",
+			"mouse",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"weekName": "obama"
+}
